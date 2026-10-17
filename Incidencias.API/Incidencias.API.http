@@ -1,0 +1,6 @@
+@Incidencias.API_HostAddress = http://localhost:5005
+
+GET {{Incidencias.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
